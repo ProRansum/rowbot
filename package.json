@@ -1,0 +1,22 @@
+{
+  "name": "rowbot",
+  "version": "1.0.0",
+  "description": "discord bot for your bot things",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProRansum/rowbot.git"
+  },
+  "author": "Kevin Haas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProRansum/rowbot/issues"
+  },
+  "homepage": "https://github.com/ProRansum/rowbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
